@@ -47,3 +47,11 @@ Our experiments demonstrated that **Visual Prompt Tuning** and **Focal Margin Lo
 Additionally, **ResNet-18**, when fine-tuned with targeted **transfer learning**, performed well with a test accuracy of **88.78%**. This highlights the potential of lightweight, targeted modifications as effective alternatives to full model fine-tuning. 
 
 In future work, further improvements could explore alternative forms of prompting—such as **language-based prompts** or **learned prompts**—to provide even greater flexibility in how the model attends to important features.
+
+**Contributors:**
+
+My wonderful teammates:
+Leong Kit Ye
+William Tian
+and me
+
