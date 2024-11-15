@@ -51,7 +51,7 @@ In future work, further improvements could explore alternative forms of promptin
 **Contributors:**
 
 My wonderful teammates:
-Leong Kit Ye \n
-William Tian
-and me
+1. Leong Kit Ye 
+2. William Tian
+3. and me (Banerjee Mohor)
 
