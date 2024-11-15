@@ -21,13 +21,13 @@ The following experiments were conducted to evaluate various model strategies an
 | **Experiment**                                      | **Notebook**                                             |
 | --------------------------------------------------- | -------------------------------------------------------- |
 | **3.1 Transfer Learning on ResNet-18 and ResNet-34** | **ResNet18_ResNet34_TransferLearning_FrozenStages.ipynb** |
-| **3.2 Deformable Convolutions on ResNet-18**         | ResNet18_DeformableConvolutions.ipynb              |
-| **3.3 Using ResNet-18 with Triplet Loss**           | ResNet_TripletLoss.ipynb                            |
-| **3.4 MixUp & CutMix**                              | MixUpAndCutMix.ipynb                               |
-| **3.5 Few-Shot Learning using Prototypical Networks** | PrototypicalNetworks.ipynb                         |
-| **3.6 VGG16 with Multi-Scale and Squeeze-and-Excitation Blocks** | VGG16_MultiScaleAndSE.ipynb, VGG16_Frozen.ipynb, VGG16_FullFineTune.ipynb |
-| **3.7 Vision Transformer with Focal Margin Loss**   | ViT_FocalMarginLoss.ipynb, ViT_Frozen.ipynb, ViT_FullFineTune.ipynb |
-| **3.8 Visual Prompt Tuning in Visual Transformer**  | ViT_VisualPromptTuning.ipynb, ViT_Frozen.ipynb, ViT_FullFineTune.ipynb |
+| **3.2 Deformable Convolutions on ResNet-18**         | **ResNet18_DeformableConvolutions.ipynb**             |
+| **3.3 Using ResNet-18 with Triplet Loss**           | **ResNet_TripletLoss.ipynb**                           |
+| **3.4 MixUp & CutMix**                              | **MixUpAndCutMix.ipynb**                             |
+| **3.5 Few-Shot Learning using Prototypical Networks** | **PrototypicalNetworks.ipynb**                         |
+| **3.6 VGG16 with Multi-Scale and Squeeze-and-Excitation Blocks** | **VGG16_MultiScaleAndSE.ipynb**, **VGG16_Frozen.ipynb**, **VGG16_FullFineTune.ipynb** |
+| **3.7 Vision Transformer with Focal Margin Loss**   | **ViT_FocalMarginLoss.ipynb**, **ViT_Frozen.ipynb**, **ViT_FullFineTune.ipynb** |
+| **3.8 Visual Prompt Tuning in Visual Transformer**  | **ViT_VisualPromptTuning.ipynb**, **ViT_Frozen.ipynb**, **ViT_FullFineTune.ipynb** |
 
 **Note**: The serial numbers of the experiments correspond to the sections in the **report**.
 
